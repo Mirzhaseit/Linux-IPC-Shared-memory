@@ -21,3 +21,13 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that illustrates two processes communicating using shared memory.
+
+
+
+
+
+## OUTPUT
+
+
+# RESULT:
+The program is executed successfully.
