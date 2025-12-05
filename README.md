@@ -134,7 +134,8 @@ int main() {
 
 
 ## OUTPUT
-![Shared Memory Output](sss.png)
+<img width="955" height="1030" alt="image" src="https://github.com/user-attachments/assets/0ef7d3f3-196e-476d-8e91-777a0f362e87" />
+
 
 # RESULT:
 The program is executed successfully.
